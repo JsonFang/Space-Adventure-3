@@ -1,2 +1,2 @@
-# Space-Adventure-3
+# Space-Invaders-Doubles
 A pygame space shooter co-op
